@@ -1,5 +1,5 @@
 # K-Means-Clustering
-A Jupyter notebook using K means clustering to model & classify countries by GDPP, relative and industrialisation.
+A Jupyter notebook using K means clustering to model & classify countries by GDPP, and relative industrialisation.
 
 Import the following libraries:
 
